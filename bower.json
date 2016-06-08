@@ -1,0 +1,22 @@
+{
+  "name": "youtubeApi",
+  "authors": [
+    "Konstantin Dyga <digitclue@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "urijs": "uri.js#^1.18.1"
+  }
+}
