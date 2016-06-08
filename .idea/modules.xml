@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D:/Projects/sandbox_youtube_api/.idea/youtubeApi.iml" filepath="D:/Projects/sandbox_youtube_api/.idea/youtubeApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/youtubeApi.iml" filepath="$PROJECT_DIR$/.idea/youtubeApi.iml" />
     </modules>
   </component>
 </project>
